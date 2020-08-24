@@ -1,1 +1,1 @@
-# velgallery.github.io
+# velgallery
