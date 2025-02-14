@@ -14,15 +14,10 @@
 export default {
   data() {
     return {
-      description: '今まで作ったものなど',
+      description: 'エンジニアリングマネージャー見習い',
       links: [
-        { id: 1, name: '🖊研究', url: 'https://tomokohashida.tumblr.com/post/642174236673310720' },
-        { id: 2, name: '🎹創作(音楽)', url: 'https://soundcloud.com/user-731542342' },
-        { id: 3, name: '🚙創作(ゲーム) MIS CART', url: 'https://www.freem.ne.jp/win/game/18896' },
-        { id: 4, name: '🍞創作(ゲーム) I wanna be the baker', url: 'https://www.freem.ne.jp/win/game/20217' },
-        { id: 5, name: 'はてなブログ', url: 'https://velengel.hatenablog.com/' },
-        { id: 6, name: 'Twitter', url: 'https://twitter.com/dora_marutation' },
-        { id: 7, name: '💻GitHub', url: 'https://github.com/velengel' },
+        { id: 1, name: '📝技術ブログ', url: 'https://www.velengel.com/blog/' },
+        { id: 2, name: '💻GitHub', url: 'https://github.com/velengel' },
       ]
     };
   }
